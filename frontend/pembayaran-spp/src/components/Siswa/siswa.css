@@ -1,0 +1,21 @@
+.data{
+    margin-left: 20px;
+}
+.img{
+    border-radius: 50px;
+    margin-top: -45px;
+    margin-left: 120px;
+    padding-bottom: -50px;
+}
+.card-content{
+    background: #51afa0;
+    padding-left: 10px;
+    padding-top: -20px;
+    border-radius: 10px;
+    margin-bottom: 80px;
+}
+.card-title p {
+    padding-left: 20px;
+    margin-top: -10px;
+    color: #116154;
+}
